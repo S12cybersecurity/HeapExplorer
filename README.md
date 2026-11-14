@@ -1,6 +1,6 @@
 # HeapExplorer
 
-Realtime heap analysis tool for Windows implant research and malware analysis.
+Realtime heap analysis tool for Windows implant research and malware analysis. (May contain bugs, AI generated)
 
 ## What it does
 
